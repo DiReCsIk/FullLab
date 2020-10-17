@@ -1,0 +1,7 @@
+C:\Users\DiReCsIk\source\repos\FirstLab\FirstLab\bin\Debug\FirstLab.exe.config
+C:\Users\DiReCsIk\source\repos\FirstLab\FirstLab\bin\Debug\FirstLab.exe
+C:\Users\DiReCsIk\source\repos\FirstLab\FirstLab\bin\Debug\FirstLab.pdb
+C:\Users\DiReCsIk\source\repos\FirstLab\FirstLab\obj\Debug\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\DiReCsIk\source\repos\FirstLab\FirstLab\obj\Debug\FirstLab.exe
+C:\Users\DiReCsIk\source\repos\FirstLab\FirstLab\obj\Debug\FirstLab.pdb
+C:\Users\DiReCsIk\source\repos\FirstLab\FirstLab\obj\Debug\FirstLab.csprojAssemblyReference.cache
